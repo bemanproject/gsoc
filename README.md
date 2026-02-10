@@ -20,7 +20,7 @@ gsoc/
 
 Let's take a tour of what every file in this hierarchy means:
 
-* For every year, we provided an updated list of ideas that should inspire you decide what you'd like to work on during summer, the `ideas.md` file.
+* For every year, we provided an updated list of ideas that should inspire you to decide what you'd like to work on during summer, the `ideas.md` file.
 You can choose from there or you can come up with your own idea; nevertheless, get involved with the community and debate on your project.
 
 * The `README.md` inside the yearly directory contains information specific to the year we are participating in GSoC: general code of conduct, the proposal template and what is expected of you **before** being accepted as a contributor.
@@ -39,7 +39,7 @@ It's also where you will post your work (if you are going to be accepted as a co
 
 We have two principal audiences: **Library Developers** and the **C++ community**. We want to allow Library Developers to have a clear path on the road to Standardization. And we want to make it easy for the C++ community to use these libraries to ensure we have real-world usage.
 
-To achieve this, The Beman Project creates and makes available to the entire C++ community cutting-edge technologies: Docker images with the latest versions of major compilers, reusable infrastructure to build a C++ library ready for standardization from scratch, process automation, boundry push for C++ modules, benchmarking tools, and more.
+To achieve this, The Beman Project creates and makes available to the entire C++ community cutting-edge technologies: Docker images with the latest versions of major compilers, reusable infrastructure to build a C++ library ready for standardization from scratch, process automation, boundary push for C++ modules, benchmarking tools, and more.
 
 * **[Discourse](https://discourse.bemanproject.org/)** — For project-wide discussions, library implementations, infrastructure, website and docs, and blog comments.
 * **[Discord](https://discord.com/invite/BKpNyJgSbm)** — There is a [**#gsoc** channel](https://discord.com/channels/1457903855898460405/1470578839540465970) where you can ask questions, discuss project ideas and get in touch with mentors.

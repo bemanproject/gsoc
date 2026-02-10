@@ -41,7 +41,7 @@ Mentors will be assigned when the project is initiated. Please feel free to reac
 | [Jeff Garland](https://github.com/JeffGarland) | jeff@crystalclearsoftware.com |
 | [Radu Nichita](https://github.com/RaduNichita) | radunichita99@gmail.com |
 
-Below are a list of open projects for the Beman Project which can be developed as part of GSoC26.
+Below is a list of open projects for the Beman Project which can be developed as part of GSoC26.
 
 ---
 
@@ -147,7 +147,7 @@ Success will make beman.execution more usable for real-world async C++ code and 
 | **Difficulty** | 4/5 |
 | **Project Size** | Large (350 hours) |
 | **Maximum instances** | 2 |
-| **Constraints/requirements** | Strong C++ skills, familiarity with platform APIs (POSIX, Windows), and C++ Standardization process (or eager to learn). |
+| **Constraints/requirements** | strong C\+\+ skills, familiarity with platform APIs (POSIX, Windows), and C\+\+ Standardization process (or eager to learn). |
 
 #### Description
 
@@ -178,7 +178,7 @@ Success will give users a single, portable way to work with environment variable
 | **Difficulty** | 2/5 |
 | **Project Size** | Medium (175 hours) |
 | **Maximum instances** | 1 |
-| **Constraints/requirements** | C++ concepts (C\+\+20), familiarity with the C++Sstandard and Beman libraries. |
+| **Constraints/requirements** | C++ concepts (C\+\+20), familiarity with the C\+\+ Standard and Beman libraries. |
 
 #### Description
 

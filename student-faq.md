@@ -46,7 +46,7 @@ Feeling lucky? Try fixing some build warnings or adding tests. There's plenty of
 
 If you have a project in mind, you are welcome to discuss it with the community members. However, the project needs to be approved by the [Beman Project Leads](https://github.com/orgs/bemanproject/teams/project-leads) (check the [Governance](https://github.com/bemanproject/beman/blob/main/docs/governance.md) for more information).
 
-## How to prepare my proposal?
+## How do I prepare my proposal?
 
 1. Start looking into the organization way before the Contributor Proposal Period, do not wait for the last week to start the investigation process.
 
