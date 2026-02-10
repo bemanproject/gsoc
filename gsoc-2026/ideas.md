@@ -16,9 +16,9 @@ title: Google Summer of Code 2026 Ideas List
   - [std::env - Portable environment variables API (beman.env)](#stdenv---portable-environment-variables-api-bemanenv)
     - [Description](#description-3)
     - [Reading \& Related Material](#reading--related-material-3)
-  - [Add guidance for "concepts" usage in Beman libraries](#add-guidance-for-concepts-usage-in-beman-libraries)
-    - [Description](#description-4)
-    - [Reading \& Related Material](#reading--related-material-4)
+  - [Concepts in Beman libraries: guidelines and implementation](#concepts-in-beman-libraries-guidelines-and-implementation)
+    - [Description](#description-5)
+    - [Reading \& Related Material](#reading--related-material-5)
 
 ## The Beman Project Ideas
 
@@ -171,25 +171,26 @@ Success will give users a single, portable way to work with environment variable
 
 ---
 
-### Add guidance for "concepts" usage in Beman libraries
+### Concepts in Beman libraries: guidelines and implementation
 
 | | |
 |-|-|
 | **Difficulty** | 2/5 |
 | **Project Size** | Medium (175 hours) |
 | **Maximum instances** | 1 |
-| **Constraints/requirements** | C++ concepts (C++20), familiarity with the C++ Standard and Beman libraries. |
+| **Constraints/requirements** | C++ concepts (C++20), familiarity with the C++ Standard and Beman libraries; willingness to apply guidelines across multiple repositories (coding). |
 
 #### Description
 
-Define guidelines for using *concepts* in Beman libraries so that newcomers who want to write a paper (or contribute a library) as part of Beman have clear, consistent guidance. The guidelines should cover when to use exposition-only concepts vs. real (standard-deduced) concepts, and how to align with the C++ standard.
+Define guidelines for using *concepts* in Beman libraries so that newcomers who want to write a paper (or contribute a library) as part of Beman have clear, consistent guidance. The guidelines should cover when to use exposition-only concepts vs. real (standard-deduced) concepts, and how to align with the C++ standard. The project **includes coding**: the created guidelines must be implemented and applied across all existing Beman libraries.
 
 Deliverables could include:
 
 1. **Document guidelines** - Write a guide (e.g. in the [beman](https://github.com/bemanproject/beman) repo docs) that explains concepts usage: exposition-only vs. real concepts, naming, and how to derive practice from the standard.
 2. **Examples and alignment** - Provide examples from existing Beman libraries and from the standard; document recommended patterns for new papers and libraries.
+3. **Apply guidelines in all existing Beman libraries** - Implement the guidelines in code: update [Beman libraries](https://bemanproject.org/libraries) to use concepts consistently (exposition-only vs. real, naming, etc.) according to the guide. This involves opening pull requests across the relevant repositories.
 
-Success will make it easier for contributors to use concepts consistently in Beman libraries and in standardization work.
+Success will make it easier for contributors to use concepts consistently in Beman libraries and in standardization work, and will bring existing libraries in line with the new guidance.
 
 #### Reading & Related Material
 
