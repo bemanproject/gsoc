@@ -21,7 +21,7 @@ GitHub profile: <!-- e.g. https://github.com/neatudarius -->
 ## Contributions
 
 <!-- List your main contributions: PRs, repos, commits. Example: -->
-<!-- * [Repo: Project Full Name](https://github.com/bemanproject/project-full-name) — description -->
+<!-- * [Repo: Project Full Name](https://github.com/bemanproject/project-full-name) - description -->
 <!-- * [PR #1: Description](https://github.com/bemanproject/${repo-name}/pull/123) -->
 <!-- * [PR #2: Description](https://github.com/bemanproject/${repo-name}/pull/124) -->
 <!-- * ... -->
@@ -36,7 +36,7 @@ GitHub profile: <!-- e.g. https://github.com/neatudarius -->
 ## Documentation
 
 <!-- Links to docs you added or updated, if any. -->
-<!-- * [Documentation: Project Full Name](https://github.com/bemanproject/project-full-name) — description -->
+<!-- * [Documentation: Project Full Name](https://github.com/bemanproject/project-full-name) - description -->
 <!-- * ... -->
 
 ## Current status

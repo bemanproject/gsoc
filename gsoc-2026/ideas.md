@@ -30,8 +30,8 @@ The Beman Project is a modern C++ libraries initiative: "Tomorrow's C++ Standard
 It hosts implementations targeting current and upcoming C++ Standards, including proposals for the C++ Standard library and related tooling.
 Contributing here means working on production-quality C++ libraries, ISO Standards alignment, and open-source library development, but also cutting-edge tooling and infrastructure.
 
-- **[gsoc-2026/README.md](README.md)** (GSoC 2026) — How to apply (connect, get accustomed, contribute, choose project, fill application), AI policy, and where to ask questions.
-- **[/README.md](../README.md)** (repo root) — File hierarchy, what each file in the repo is for, Community (Discourse, Discord, GitHub, Website), and best practices.
+- **[gsoc-2026/README.md](README.md)** (GSoC 2026) - How to apply (connect, get accustomed, contribute, choose project, fill application), AI policy, and where to ask questions.
+- **[/README.md](../README.md)** (repo root) - File hierarchy, what each file in the repo is for, Community (Discourse, Discord, GitHub, Website), and best practices.
 
 ## Mentors of the projects
 
