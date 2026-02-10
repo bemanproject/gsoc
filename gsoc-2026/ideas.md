@@ -33,7 +33,7 @@ Below are a list of open projects for the Beman Project which can be developed a
 |-|-|
 | **Difficulty** | 3/5 |
 | **Project Size** | Variable (175 or 350 hours) |
-| **Maximum instances** | 1 |
+| **Maximum instances** | 2 |
 | **Constraints/requirements** | Python and C++; familiarity with CMake/build systems, CI (e.g. GitHub Actions), and the [Beman Standard](https://github.com/bemanproject/beman/blob/main/docs/beman_standard.md). |
 
 #### Description
@@ -52,7 +52,38 @@ Success will give contributors a single, automated way to keep repositories alig
 #### Reading & Related Material
 
 * [beman-tidy](https://github.com/bemanproject/beman-tidy) ([PyPI](https://pypi.org/project/beman-tidy/))
-* [The Beman Standard](https://github.com/bemanproject/beman/blob/main/docs/beman_standard.md) and the [Beman Library Maturity Model](https://github.com/bemanproject/beman/blob/main/docs/beman_library_maturity_model.md)
+* The [Beman Standard](https://github.com/bemanproject/beman/blob/main/docs/beman_standard.md) and the [Beman Library Maturity Model](https://github.com/bemanproject/beman/blob/main/docs/beman_library_maturity_model.md)
+* [exemplar](https://github.com/bemanproject/exemplar) — Template library for new Beman libraries
+* [Beman Project](https://bemanproject.org/) and [Beman libraries](https://bemanproject.org/libraries)
+
+---
+
+### Enhance std::execution
+
+| | |
+|-|-|
+| **Difficulty** | 4/5 |
+| **Project Size** | Large (350 hours) |
+| **Maximum instances** | 2 |
+| **Constraints/requirements** | Strong C++ skills, familiarity with asynchronous programming, C++26 / P2300 sender–receiver model, and the [std::execution](https://wg21.link/p2300) specification. |
+
+#### Description
+
+[std::execution](https://wg21.link/p2300) is the vocabulary for asynchronous work in C++. [beman.execution](https://github.com/bemanproject/execution) is an implementation of this specification. The available tools currently specified are known to be incomplete. A project could create additional components to cover real-life use-cases. Some of the data structures and algorithms you implement could later be proposed for standardization.
+
+The project could follow phases such as:
+
+1. **Implement additional data structures** — A concurrent queue, a ring buffer, or similar building blocks for async pipelines.
+2. **Implement missing algorithms** — Algorithms such as `when_any`, `sequence`, `repeat`, or refinements of existing algorithms in the execution model.
+3. **Document, test, and align** — Ensure components are well-documented and tested, and align with the evolving std::execution design. Identify which components might be candidates for the C++ standard.
+4. **Draft a standardization proposal for C++29** — Draft and submit a WG21 paper (or contribute to an existing one) proposing one or more of the implemented components for C++29.
+
+Success will make beman.execution more usable for real-world async C++ code and will align it better with the evolving std::execution design; some of the work may feed into future standardization.
+
+#### Reading & Related Material
+
+* [beman.execution](https://github.com/bemanproject/execution), [beman.net](https://github.com/bemanproject/net), [beman.task](https://github.com/bemanproject/task).
+* [P2300 std::execution](https://wg21.link/p2300) — C++ Working Draft model (soon to beC++26)
 * [exemplar](https://github.com/bemanproject/exemplar) — Template library for new Beman libraries
 * [Beman Project](https://bemanproject.org/) and [Beman libraries](https://bemanproject.org/libraries)
 
