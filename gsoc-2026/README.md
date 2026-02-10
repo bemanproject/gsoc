@@ -38,10 +38,10 @@ Beman Project development happens on [The Beman Project GitHub organization](htt
 
 For starters, check the following resources:
 
-* https://bemanproject.org — The Beman Project website and [blog](https://bemanproject.org/blog).
-* https://github.com/bemanproject — The Beman Project repositories: browse, build and run the libraries or the tooling.
-* https://github.com/bemanproject/beman — The place where guides, policies and more are documented (e.g., [The Beman Standard](https://github.com/bemanproject/beman/blob/main/docs/beman_standard.md)).
-* https://github.com/bemanproject/exemplar — An exemplar project for Beman libraries (used as a template library for new Beman libraries).
+* https://bemanproject.org - The Beman Project website and [blog](https://bemanproject.org/blog).
+* https://github.com/bemanproject - The Beman Project repositories: browse, build and run the libraries or the tooling.
+* https://github.com/bemanproject/beman - The place where guides, policies and more are documented (e.g., [The Beman Standard](https://github.com/bemanproject/beman/blob/main/docs/beman_standard.md)).
+* https://github.com/bemanproject/exemplar - An exemplar project for Beman libraries (used as a template library for new Beman libraries).
 * Actual libraries: check [Beman Libraries](https://bemanproject.org/libraries) on our website.
 
 See the contributing guidelines in each repository. Build, run and test the libraries to get hands-on with the codebase.

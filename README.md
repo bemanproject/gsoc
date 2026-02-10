@@ -43,10 +43,10 @@ We have two principal audiences: **Library Developers** and the **C++ community*
 
 To achieve this, The Beman Project creates and makes available to the entire C++ community cutting-edge technologies: Docker images with the latest versions of major compilers, reusable infrastructure to build a C++ library ready for standardization from scratch, process automation, boundary push for C++ modules, benchmarking tools, and more.
 
-* **[Discourse](https://discourse.bemanproject.org/)** — For project-wide discussions, library implementations, infrastructure, website and docs, and blog comments.
-* **[Discord](https://discord.com/invite/BKpNyJgSbm)** — There is a [**#gsoc** channel](https://discord.com/channels/1457903855898460405/1470578839540465970) where you can ask questions, discuss project ideas and get in touch with mentors.
-* **[GitHub](https://github.com/bemanproject)** — The Beman Project repositories.
-* **[Website](https://bemanproject.org/)** — The Beman Project website where we also share our experiences and insights via the [blog](https://bemanproject.org/blog).
+* **[Discourse](https://discourse.bemanproject.org/)** - For project-wide discussions, library implementations, infrastructure, website and docs, and blog comments.
+* **[Discord](https://discord.com/invite/BKpNyJgSbm)** - There is a [**#gsoc** channel](https://discord.com/channels/1457903855898460405/1470578839540465970) where you can ask questions, discuss project ideas and get in touch with mentors.
+* **[GitHub](https://github.com/bemanproject)** - The Beman Project repositories.
+* **[Website](https://bemanproject.org/)** - The Beman Project website where we also share our experiences and insights via the [blog](https://bemanproject.org/blog).
 
 ## Best practices
 

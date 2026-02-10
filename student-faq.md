@@ -6,10 +6,10 @@ A good place to start is the [Beman Project website](https://bemanproject.org/),
 
 You can reach the community through these channels:
 
-* **[Website](https://bemanproject.org/)** — The Beman Project website and [blog](https://bemanproject.org/blog).
-* **[GitHub](https://github.com/bemanproject)** — The Beman Project repositories: browse, build and run the libraries or the tooling.
-* **[Discourse](https://discourse.bemanproject.org/)** — Project-wide discussions, library implementations, infrastructure, website and docs, blog comments. The official place to propose new GSoC ideas; when posting, **tag all people from this repo's [CODEOWNERS](.github/CODEOWNERS)** so they can follow and respond.
-* **[Discord](https://discord.com/invite/BKpNyJgSbm)** — There is a [**#gsoc** channel](https://discord.com/channels/1457903855898460405/1470578839540465970) for GSoC-related questions, project ideas and mentors.
+* **[Website](https://bemanproject.org/)** - The Beman Project website and [blog](https://bemanproject.org/blog).
+* **[GitHub](https://github.com/bemanproject)** - The Beman Project repositories: browse, build and run the libraries or the tooling.
+* **[Discourse](https://discourse.bemanproject.org/)** - Project-wide discussions, library implementations, infrastructure, website and docs, blog comments. The official place to propose new GSoC ideas; when posting, **tag all people from this repo's [CODEOWNERS](.github/CODEOWNERS)** so they can follow and respond.
+* **[Discord](https://discord.com/invite/BKpNyJgSbm)** - There is a [**#gsoc** channel](https://discord.com/channels/1457903855898460405/1470578839540465970) for GSoC-related questions, project ideas and mentors.
 
 The community is ready to help: ask questions, discuss project ideas and get in touch with mentors.
 
@@ -22,7 +22,7 @@ They are also the people that will pass/fail you, so communicating with them not
 
 GSoC has **two** evaluations: a **midterm** (around the middle of the coding period) and a **final** (at the end, when you also submit your work product). For a standard 12‑week project, the midterm is at the end of week 6 and the final after week 12. For 8‑week projects, the midterm is after week 4 and the final after week 8. See the [official GSoC Evaluations guide](https://google.github.io/gsocguides/student/evaluations) and the [GSoC timeline](https://developers.google.com/open-source/gsoc/timeline) for exact dates and rules.
 
-Both evaluations are key stages: they require feedback from you and your mentor and determine whether you pass or fail. The pass/fail decision should not be a surprise if you stay in touch with your mentor. **Mark the evaluation dates in your calendar** — they are important. If you do not complete the final evaluation (including the link to your work product), you will fail the program.
+Both evaluations are key stages: they require feedback from you and your mentor and determine whether you pass or fail. The pass/fail decision should not be a surprise if you stay in touch with your mentor. **Mark the evaluation dates in your calendar** - they are important. If you do not complete the final evaluation (including the link to your work product), you will fail the program.
 
 ## What should I be doing during the community bonding period?
 
