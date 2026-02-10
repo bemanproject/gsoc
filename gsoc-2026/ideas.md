@@ -2,7 +2,6 @@
 title: Google Summer of Code 2026 Ideas List
 ---
 
-Table of Contents
 - [The Beman Project Ideas](#the-beman-project-ideas)
 - [Mentors of the projects](#mentors-of-the-projects)
   - [Beman implementation of P2980: Physical quantities and units (beman.units)](#beman-implementation-of-p2980-physical-quantities-and-units-bemanunits)
@@ -36,7 +35,7 @@ Mentors will be assigned when the project is initiated. Please feel free to reac
 | Mentor | Email |
 |--------|-------|
 | [Darius Neațu](https://github.com/neatudarius) | neatudarius@gmail.com |
-| [Dietmar Kühl](https://github.com/camio) | dietmar.kuehl@gmail.com |
+| [Dietmar Kühl](https://github.com/dietmarkuehl) | dietmar.kuehl@gmail.com |
 | [Eddie Nolan](https://github.com/ednolan) | EddieJNolan@gmail.com |
 | [Inbal Levi](https://github.com/inbal2l) | sinbal2lextra@gmail.com |
 | [Jeff Garland](https://github.com/JeffGarland) | jeff@crystalclearsoftware.com |
