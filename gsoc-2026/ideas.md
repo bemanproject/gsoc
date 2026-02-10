@@ -26,11 +26,11 @@ Thank you for your interest in participating in [Google Summer of Code 2026 (GSo
 
 The Beman Project is a modern C++ libraries initiative: "Tomorrow's C++ Standard Libraries Today!"
 It hosts implementations targeting current and upcoming C++ Standards, including proposals for the C++ Standard library and related tooling.
-Contributing here means working on production-quality C++, ISO Standards alignment, and open source library development.
+Contributing here means working on production-quality C++ libraries, ISO Standards alignment, and open-source library development, but also cutting-edge tooling and infrastructure.
 
 ## Mentors of the projects
 
-Mentors will be assigned when the project is initiated. Please feel free to reach out beforehand to discuss the project.
+The people listed below may mentor Beman@GSoC projects. A dedicated mentor for your project is assigned once your application is accepted and the coding period starts. **Before applying**, we encourage you to get in touch with us (e.g. on [Discourse](https://discourse.bemanproject.org/) or the [**#gsoc** channel](https://discord.com/channels/1457903855898460405/1470578839540465970) on [Discord](https://discord.com/invite/BKpNyJgSbm)) to discuss the project you are interested in and ask questions.
 
 | Mentor | Email |
 |--------|-------|
