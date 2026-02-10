@@ -33,7 +33,7 @@ It's also where you will post your work (if you are going to be accepted as a co
 
 * The root `student-work-product-template.md` file contains the skeleton that accepted contributors use for their final submission.
 
-* The root `student-faq.md` file answers common questions about GSoC, how to prepare your proposal, The Beman Project, mentors, evaluations and more.
+* The root [**student-faq.md**](student-faq.md) file answers common questions about GSoC, how to prepare your proposal, The Beman Project, mentors, evaluations and more.
 
 ## Community
 
@@ -50,6 +50,8 @@ To achieve this, The Beman Project creates and makes available to the entire C++
 
 * First and foremost, read the `gsoc-${year}/README.md` file for the year you are applying in.
 Follow the steps documented there as closely as possible: you (literally) get extra points.
+
+* Read the [**student-faq.md**](student-faq.md) for common questions (evaluations, mentors, proposal, community).
 
 * Inspect `gsoc-${year}/ideas.md`.
 

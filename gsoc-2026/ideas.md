@@ -2,8 +2,9 @@
 title: Google Summer of Code 2026 Ideas List
 ---
 
-- [The Beman Project Ideas](#the-beman-project-ideas)
+- [The Beman Project @ GSoC](#the-beman-project--gsoc)
 - [Mentors of the projects](#mentors-of-the-projects)
+- [The Beman Project Ideas](#the-beman-project-ideas)
   - [Beman implementation of P2980: Physical quantities and units (beman.units)](#beman-implementation-of-p2980-physical-quantities-and-units-bemanunits)
     - [Description](#description)
     - [Reading \& Related Material](#reading--related-material)
@@ -17,10 +18,10 @@ title: Google Summer of Code 2026 Ideas List
     - [Description](#description-3)
     - [Reading \& Related Material](#reading--related-material-3)
   - [Concepts in Beman libraries: guidelines and implementation](#concepts-in-beman-libraries-guidelines-and-implementation)
-    - [Description](#description-5)
-    - [Reading \& Related Material](#reading--related-material-5)
+    - [Description](#description-4)
+    - [Reading \& Related Material](#reading--related-material-4)
 
-## The Beman Project Ideas
+## The Beman Project @ GSoC
 
 Thank you for your interest in participating in [Google Summer of Code 2026 (GSoC26)](https://summerofcode.withgoogle.com/programs/2026)!
 
@@ -34,12 +35,14 @@ The people listed below may mentor Beman@GSoC projects. A dedicated mentor for y
 
 | Mentor | Email |
 |--------|-------|
-| [Darius Neațu](https://github.com/neatudarius) | neatudarius@gmail.com |
-| [Dietmar Kühl](https://github.com/dietmarkuehl) | dietmar.kuehl@gmail.com |
-| [Eddie Nolan](https://github.com/ednolan) | EddieJNolan@gmail.com |
-| [Inbal Levi](https://github.com/inbal2l) | sinbal2lextra@gmail.com |
-| [Jeff Garland](https://github.com/JeffGarland) | jeff@crystalclearsoftware.com |
-| [Radu Nichita](https://github.com/RaduNichita) | radunichita99@gmail.com |
+| [Darius Neațu](https://github.com/neatudarius)  | neatudarius@gmail.com         |
+| [Dietmar Kühl](https://github.com/dietmarkuehl) | dietmar.kuehl@gmail.com       |
+| [Eddie Nolan](https://github.com/ednolan)       | EddieJNolan@gmail.com         |
+| [Inbal Levi](https://github.com/inbal2l)        | sinbal2lextra@gmail.com       |
+| [Jeff Garland](https://github.com/JeffGarland)  | jeff@crystalclearsoftware.com |
+| [Radu Nichita](https://github.com/RaduNichita)  | radunichita99@gmail.com       |
+
+## The Beman Project Ideas
 
 Below is a list of open projects for the Beman Project which can be developed as part of GSoC26.
 

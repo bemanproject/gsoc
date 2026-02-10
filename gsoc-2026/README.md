@@ -15,7 +15,7 @@ Make your way into open-source development with C++ standards, modern libraries 
 The [Beman Project](https://bemanproject.org/) is a modern C++ libraries initiative: "Tomorrow's C++ Standard Libraries Today!"
 It hosts implementations targeting current and upcoming C++ standards (C++26, C++29), including proposals for [std::optional extensions](https://github.com/bemanproject/optional), [std::execution](https://github.com/bemanproject/execution), upcoming scope guard, etc.
 
-Before you apply, see the [GSoC contributor eligibility](https://summerofcode.withgoogle.com/get-started).
+Before you apply, see the [GSoC contributor eligibility](https://summerofcode.withgoogle.com/get-started). For common questions (evaluations, mentors, how to prepare your proposal), see the [**student-faq.md**](../student-faq.md) in the repo root.
 
 ## How to apply
 
