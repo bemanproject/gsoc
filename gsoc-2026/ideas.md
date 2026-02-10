@@ -2,6 +2,8 @@
 title: Google Summer of Code 2026 Ideas List
 ---
 
+<img src="https://raw.githubusercontent.com/bemanproject/beman/main/images/logos/beman_logo.png" width="120" alt="Beman Project" align="right" />
+
 - [The Beman Project @ GSoC](#the-beman-project--gsoc)
 - [Mentors of the projects](#mentors-of-the-projects)
 - [The Beman Project Ideas](#the-beman-project-ideas)

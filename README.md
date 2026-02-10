@@ -1,5 +1,7 @@
 # The Beman Project at Google Summer of Code
 
+<img src="https://raw.githubusercontent.com/bemanproject/beman/main/images/logos/beman_logo.png" width="120" alt="Beman Project" align="right" />
+
 This repository contains the official archive of [The Beman Project's](https://bemanproject.org/) GSoC projects over the years.
 
 ## File hierarchy
