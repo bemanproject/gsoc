@@ -1,5 +1,7 @@
 # The Beman Project at Google Summer of Code 2026 (GSoC'26)
 
+<img src="https://raw.githubusercontent.com/bemanproject/beman/main/images/logos/beman_logo.png" width="120" alt="Beman Project" align="right" />
+
 Table of Contents
 - [Introduction](#introduction)
 - [How to apply](#how-to-apply)
