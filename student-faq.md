@@ -34,7 +34,7 @@ We strongly suggest you attend any community gatherings or meetings where we dis
 
 ## Is making a contribution necessary in order to apply to The Beman Project?
 
-Theoretically, you can apply without making a contribution, however, we believe that having even a small contribution proves that you are, indeed, not only ready, but willing to contribute to open source code.
+Theoretically, you can apply without making a contribution. However, we believe that having even a small contribution proves that you are, indeed, not only ready, but willing to contribute to open source code.
 
 For ideas, visit the issue pages for [The Beman Project repositories](https://github.com/bemanproject) on GitHub. Look for items marked with `good first issue` or similar labels if available.
 
