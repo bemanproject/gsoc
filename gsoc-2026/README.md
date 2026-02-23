@@ -8,6 +8,8 @@ Table of Contents
 - [Our Beman@GSoC AI policy](#our-beman-gsoc-ai-policy)
 - [Still have some doubts/questions? Reach out to the community](#still-have-some-doubtsquestions-reach-out-to-the-community)
 
+NOTE: The Beman Project GSoC 2026 application was rejected. Feel free to contribute to our organization in any way - please check [docs/code_of_conduct.md](https://github.com/bemanproject/beman/blob/main/docs/code_of_conduct.md). We'll be back for GSoC 2027.
+
 ## Introduction
 
 Make your way into open-source development with C++ standards, modern libraries and cutting-edge tooling. Apply to [GSoC26](https://summerofcode.withgoogle.com/) with the [Beman Project](https://bemanproject.org/).
