@@ -5,7 +5,7 @@
 This repository contains the official archive of [The Beman Project's](https://bemanproject.org/) GSoC projects over the years.
 
 
-NOTE: The Beman Project's application for GSOC 2026 was rejected. Feel free to contribute to our organization any way - please check [docs/code_of_conduct.md](https://github.com/bemanproject/beman/blob/main/docs/code_of_conduct.md). We'll be back for GSoC 2026.
+NOTE: The Beman Project's application for GSOC 2026 was rejected. Feel free to contribute to our organization any way - please check [docs/code_of_conduct.md](https://github.com/bemanproject/beman/blob/main/docs/code_of_conduct.md). We'll be back for GSoC 2027.
 
 ## File hierarchy
 
